@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: akannanspringbootapp 
-          image: myacrrepo4321.azurecr.io/suhasbharadwaj11/springboot-app:latest
+          image: smvtestacr.azurecr.io/suhasbharadwaj11/springboot-app:latest
           ports:
           - containerPort: 80
